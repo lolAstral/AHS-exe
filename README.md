@@ -1,5 +1,5 @@
 # AHS-exe
-(DELETE thW FILE CALLED "exploitMain.dll" something like that)
+(DELETE THE FILE CALLED "exploitMain.dll" something like that)
 Go to code 
 And click "Download ZIP"
 And then open the zip file
